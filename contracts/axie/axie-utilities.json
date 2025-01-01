@@ -1,0 +1,64 @@
+{
+	"contracts": [
+		{
+			"name": "AxieForge",
+			"address": "0xee85902589eb0c7f88603bb203045b885a1c3a98",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/forge/AxieForge.sol"
+		},
+		{
+			"name": "ReleaseAxieForMaterial",
+			"address": "0x65e133756d621c0a0f5bb052ba7297b61efb66e9",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/releasing/ReleaseAxieForMaterial.sol"
+		},
+		{
+			"name": "GachaMachine",
+			"address": "0x3e0674b1ddc84b0cfd9d773bb2ce23fe8f445de3",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/GachaMachine.sol"
+		},
+		{
+			"name": "AxieVault",
+			"address": "0xA095d26ee12e81262fA2F16E5fc5886183487Ce7",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/AxieVault.sol"
+		},
+		{
+			"name": "AxieConsumableERC1155",
+			"address": "0x737b80335a9396A8658405d7ADCbc57343Ff0558",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/consumable/AxieConsumableERC1155.sol"
+		},
+		{
+			"name": "AxieConsumableConsumer",
+			"address": "0xEaa3D9aF9c9C218daE63922C97eeEe6C3F770e15",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/consumable/AxieConsumableConsumer.sol"
+		},
+		{
+			"name": "MaterialERC1155",
+			"address": "0x12B707c3D2786570cFdc3A998a085b62ACDba4B3",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/material/MaterialERC1155.sol"
+		},
+		{
+			"name": "AtiaShrine",
+			"address": "0x9d3936dbd9a794ee31ef9f13814233d435bd806c",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/atia-shrine/AtiaShrine.sol"
+		},
+		{
+			"name": "AxieVoting",
+			"address": "0xe78Ec1a0bC59cD412bF085D8662a2445Af2E58e3",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie-governance/AxieVoting.sol"
+		},
+		{
+			"name": "AxieBadge",
+			"address": "0x1cdB9C49Ffc178356cFfC0dB31A94fb41168a734",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/badge/AxieBadge.sol"
+		}
+	]
+}

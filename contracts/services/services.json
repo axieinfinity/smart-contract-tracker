@@ -1,0 +1,28 @@
+{
+  "contracts": [
+    {
+      "name": "Ronin VRF Coordinator",
+      "address": "0x16a62a921e7fec5bf867ff5c805b662db757b778",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/coordinators/RoninVRFCoordinator.sol"
+    },
+    {
+      "name": "Scatter",
+      "address": "0x5d518933351a0bc14b24b329b33b813565608769",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/others/Scatter.sol"
+    },
+    {
+      "name": "WRON Helper",
+      "address": "0xcaf3e62b27a3df0766721d1959d22b066e1a57f1",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/others/WRONHelper.sol"
+    },
+		{
+			"name": "WhitelistDeployer V2",
+			"address": "0xc1876d5c4bfaf0ee325e4226b2bdf216d9896ae1",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/whitelist-deployer/WhitelistDeployerV2.sol"
+		}
+  ]
+}
