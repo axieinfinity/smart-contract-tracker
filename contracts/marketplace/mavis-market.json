@@ -1,0 +1,70 @@
+{
+  "contracts": [
+    {
+      "name": "MarketCommission",
+      "address": "0x35d30aefe3d3620b644336229d1f3a2bffbf4917",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/marketplace/MarketCommission.sol"
+    },
+    {
+      "name": "MavisMarketGateway",
+      "address": "0x3B3aDf1422f84254B7fbb0e7cA62Bd0865133fe3",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/marketplace/gateway/MarketGateway.sol"
+    },
+    {
+      "name": "MavisOrderExchange",
+      "address": "0xB24592970973a80014fa80Feb895873094909B3C",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/marketplace/mavis/MavisOrderExchange.sol"
+    },
+    {
+      "name": "ERC1155Exchange",
+      "address": "0xb36C9027eD4353fdD7A59d8c40E0dF5221a3764F",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/marketplace/order-exchange/ERC1155Exchange.sol"
+    },
+    {
+      "name": "SwapForwarder",
+      "address": "0x133fa77DeA36B311292201EfDdFC58Cbe3A140b7",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/SwapForwarder.sol"
+    },
+    {
+      "name": "Mavis Launchpad",
+      "address": "0xa8e9FDF57bBd991c3F494273198606632769Db99",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/MavisLaunchpad.sol"
+    },
+    {
+      "name": "PublicStageLogic",
+      "address": "0x8C6b811DC467Dbe2aBeB4ED0576f5B64869dC0DF",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/stage-logic/PublicStageLogic.sol"
+    },
+    {
+      "name": "AllowedListStageLogic",
+      "address": "0xE318c092Cd60b3F7b3194b6155A13e1594B5DAd2",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/stage-logic/AllowlistStageLogic.sol"
+    },
+    {
+      "name": "TokenGatedStageLogic",
+      "address": "0x3B3aDf1422f84254B7fbb0e7cA62Bd0865133fe3",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/stage-logic/TokenGatedStageLogic.sol"
+    },
+    {
+      "name": "Mavis Presale",
+      "address": "0x18B30E4F0085cd3D705a22D3dB7cCAa9db1e5022",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/presale/MavisPresale.sol"
+    },
+    {
+      "name": "PresaleFactory",
+      "address": "0xb13e7746B891b1F548596E4cE1CAfDBB2aE4454f",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/presale/PresaleFactory.sol"
+    }
+  ]
+}

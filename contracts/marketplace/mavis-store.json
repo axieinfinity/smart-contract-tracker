@@ -1,0 +1,28 @@
+{
+  "contracts": [
+    {
+      "name": "MavisStore",
+      "address": "0x8a28c188A067DFa6AAEC36E2b67b34D2c3042df9",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/marketplace/mavis-pay/MavisPay.sol"
+    },
+    {
+      "name": "MavisStoreExtended",
+      "address": "0xa650570c41Ee2F8448a40e2b45C92f5d2bA13D2f",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/mavis-store-contracts/blob/mainnet/src/MavisStore.sol"
+    },
+    {
+      "name": "MerchStore",
+      "address": "0x37E14427Bb0C09dFe79c465737312D6d7c74f003",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/mavis-store-contracts/blob/mainnet/src/MavisStore.sol"
+    },
+    {
+      "name": "StoreCommission",
+      "address": "0x5C85819a6D8D08f7B746200a57406CFD2ecAeA63",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/mavis-store-contracts/blob/mainnet/src/StoreCommission.sol"
+    }
+  ]
+}
