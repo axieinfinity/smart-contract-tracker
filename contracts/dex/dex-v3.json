@@ -1,0 +1,88 @@
+{
+  "contracts": [
+    {
+      "name": "KatanaV3Factory",
+      "address": "0x1f0B70d9A137e3cAEF0ceAcD312BC5f81Da0cC0c",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/core/KatanaV3Factory.sol"
+    },
+    {
+      "name": "KatanaV3Pool (logic)",
+      "address": "0xFe70f3F08637C67E451A5D74B292DFe7691D694F",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/core/KatanaV3Pool.sol"
+    },
+    {
+      "name": "KatanaV3PoolBeacon",
+      "address": "0x4c4C0ae2fa6f117dC4a1f0495Cbfc902e78cDF31",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/core/KatanaV3PoolBeacon.sol"
+    },
+    {
+      "name": "NonfungiblePositionManager",
+      "address": "0x7cF0fb64d72b733695d77d197c664e90D07cF45A",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/periphery/NonfungiblePositionManager.sol"
+    },
+    {
+      "name": "V3Migrator",
+      "address": "0x0124c9Ce7E77eD166f6d53AF679B491555b5C0F7",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/periphery/V3Migrator.sol"
+    },
+    {
+      "name": "AggregateRouter",
+      "address": "0x5F0aCDD3eC767514fF1BF7e79949640bf94576BD",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-operation-contracts/blob/mainnet/src/aggregate-router/AggregateRouter.sol"
+    },
+    {
+      "name": "Permit2",
+      "address": "0x771CA29e483Df5447E20a89e0F00E1DAF09eF534",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/permit2x/blob/main/src/Permit2.sol"
+    },
+    {
+      "name": "KatanaGovernance",
+      "address": "0x2C1726346d83cBF848bD3C2B208ec70d32a9E44a",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-operation-contracts/blob/mainnet/src/governance/KatanaGovernance.sol"
+    },
+    {
+      "name": "TickLens",
+      "address": "0x05Ad77F1e419Dac0B580a2Ca08CB1e3e33F946Ee",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/periphery/lens/TickLens.sol"
+    },
+    {
+      "name": "QuoterV2",
+      "address": "0x84Ab2f9Fdc4Bf66312b0819D879437b8749EfDf2",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/periphery/lens/QuoterV2.sol"
+    },
+    {
+      "name": "MixedRouteQuoterV1",
+      "address": "0xebdC1bb4DF7627573A480bBEEB30e8919d21BC90",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/periphery/lens/MixedRouteQuoterV1.sol"
+    },
+    {
+      "name": "KatanaInterfaceMulticall",
+      "address": "0x48365CcA8769c926ffbFE5B43f0e360363e8ee70",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/periphery/lens/KatanaInterfaceMulticall.sol"
+    },
+    {
+      "name": "NonfungibleTokenPositionDescriptor",
+      "address": "0x8766648aA6586cC7Cd2cDb2Bd911eec78Cab89Ea",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/periphery/NonfungibleTokenPositionDescriptor.sol"
+    },
+    {
+      "name": "NFTDescriptor",
+      "address": "0x8F5D2B4B95677833Ac62718cF09152efCFE0ad94",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/katana-v3-contracts/blob/mainnet/src/periphery/libraries/NFTDescriptor.sol"
+    }
+  ]
+}
