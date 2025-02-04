@@ -23,6 +23,36 @@
       "address": "0xc1876d5c4bfaf0ee325e4226b2bdf216d9896ae1",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/whitelist-deployer/WhitelistDeployerV2.sol"
+    },
+    {
+      "label": "DailyCheckInFactory",
+      "address": "0xC71008091c58eF7e43412f58B203eb3Ae8AB937b",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/template-factory/blob/mainnet/src/factories/DailyCheckInFactory.sol"
+    },
+    {
+      "label": "ERC1155CommonFactory",
+      "address": "0x907bdfDF0d9cAdf8281Eee75B62bdc8df8cf1AE7",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/template-factory/blob/mainnet/src/factories/ERC1155CommonFactory.sol"
+    },
+    {
+      "label": "ERC721CommonFactory",
+      "address": "0xb4a277Ab54C6C9DE3f8FAC1EDED9165585EF5d54",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/template-factory/blob/mainnet/src/factories/ERC721CommonFactory.sol"
+    },
+    {
+      "label": "ERC721SaleFactory",
+      "address": "0x156aAa25339bF8fb15A9e9b1E03fc11D1c5a216E",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/template-factory/blob/mainnet/src/factories/ERC721SaleFactory.sol"
+    },
+    {
+      "label": "TemplateFactoryProxy",
+      "address": "0xEB2c874a5236e02dA4F35dd5a1470d285f9a2F71",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/template-factory/blob/mainnet/src/TemplateFactory.sol"
     }
   ]
 }
