@@ -31,6 +31,12 @@
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/consumable/AxieConsumableERC1155.sol"
     },
     {
+      "name": "AxieAccessoryERC1155",
+      "address": "0xbd1f28aabe799df4735d8da3841007580e509f08",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/tokens/erc1155/AxieAccessoryERC1155.sol"
+    },
+    {
       "name": "AxieConsumableConsumer",
       "address": "0xEaa3D9aF9c9C218daE63922C97eeEe6C3F770e15",
       "network": "Ronin",
