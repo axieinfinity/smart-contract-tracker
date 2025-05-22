@@ -67,6 +67,12 @@
       "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/presale/PresaleFactory.sol"
     },
     {
+      "name": "CollectionOffer",
+      "address": "0x3ef234bc2a04d86f6041e419458d9acbd077f2c1",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/collection-offer/CollectionOffer.sol"
+    },
+    {
       "name": "RoyaltyRegistry",
       "address": "0x5afa3e25a620c66bb401e916680316ec80cba676",
       "network": "Ronin",
