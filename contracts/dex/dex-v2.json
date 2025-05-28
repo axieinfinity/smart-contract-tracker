@@ -37,6 +37,12 @@
       "source": "https://github.com/axieinfinity/katana-dex-contracts/blob/mainnet/src/katana/KatanaGovernance.sol"
     },
     {
+      "name": "ERC20StakingManager",
+      "address": "0x8bd81a19420bad681b7bfc20e703ebd8e253782d",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/dapps-smart-contracts/blob/main/contracts/staking/manager/ERC20StakingManager.sol"
+    },
+    {
       "name": "FarmFactory",
       "address": "0xae1e5cd7360bb7d66e8a01febef8441902aeefea",
       "network": "Ronin",
