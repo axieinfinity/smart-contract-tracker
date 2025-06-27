@@ -85,6 +85,18 @@
             "address": "0x2Cf3CFb17774Ce0CFa34bB3f3761904e7fc3FaDB",
             "network": "Ethereum",
             "source": "https://github.com/ronin-chain/bridge-contract/blob/mainnet/src/mainchain/MainchainBridgeManager.sol"
+        },
+        {
+            "label": "MultiLockMintERC721PoolProxy",
+            "address": "0xab5f1eb5b88c77651eed32104b19e34f36675893",
+            "network": "Ethereum",
+            "source": "https://github.com/ronin-chain/ronin-ccip-nft-pools/blob/main/src/pools/erc721/MultiLockMintERC721Pool.sol"
+        },
+        {
+            "label": "MultiLockMintERC721PoolProxy",
+            "address": "0xab5f1eb5b88c77651eed32104b19e34f36675893",
+            "network": "Ronin",
+            "source": "https://github.com/ronin-chain/ronin-ccip-nft-pools/blob/main/src/pools/erc721/MultiLockMintERC721Pool.sol"
         }
     ],
     "categories": [
