@@ -76,7 +76,13 @@
       "name": "RoyaltyRegistry",
       "address": "0x5afa3e25a620c66bb401e916680316ec80cba676",
       "network": "Ronin",
-      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/royalty-registry/RoyaltyRegistry.sol"
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.1/src/royalty-registry/RoyaltyRegistry.sol"
+    },
+    {
+      "name": "NFTMysteryPackFactory",
+      "address": "0xcf642977657e7b3fc6b26e6e5091536bea61b6dc",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.1.1/src/mystery-pack/NFTMysteryPackFactory.sol"
     }
   ]
 }
