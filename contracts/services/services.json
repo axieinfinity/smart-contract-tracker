@@ -4,8 +4,20 @@
       "name": "Ronin VRF Coordinator",
       "address": "0x16a62a921e7fec5bf867ff5c805b662db757b778",
       "network": "Ronin",
-      "source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/coordinators/RoninVRFCoordinator.sol"
+      "source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/src/coordinators/RoninVRFCoordinator.sol"
     },
+		{
+			"name": "Ronin VRF Wrapper",
+			"address": "0x8f3D2DBa3460889b42448bEEefcc3DD6e2215930",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/src/wrappers/RoninVRFWrapper.sol"
+		},
+		{
+			"name": "Ronin VRF Fee Sponsoring",
+			"address": "0x3894dc7815f6fc259cbfb929bfa0e91da1e20562",
+			"network": "Ronin",
+			"source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/src/wrappers/RoninVRFFeeSponsoring.sol"
+		},
     {
       "name": "Scatter",
       "address": "0x5d518933351a0bc14b24b329b33b813565608769",
