@@ -1,0 +1,33 @@
+{
+    "name": "Ronin Pod",
+    "description": "Prood Of Distribution contracts",
+    "contracts": [
+        {
+            "label": "EpochOracle",
+            "address": "0x571cd137a5226803e7ad68754396bc6f47dd9ebb",
+            "network": "Ronin",
+            "source": "https://github.com/ronin-chain/pod-contract/blob/main/src/score-oracle/EpochOracle.sol"
+        },
+        {
+            "label": "RoundOracle",
+            "address": "0x7850bF8c2c9Ca08cA851480Df3068daF3bDC5d37",
+            "network": "Ronin",
+            "source": "https://github.com/ronin-chain/pod-contract/blob/main/src/score-oracle/RoundOracle.sol"
+        },
+        {
+            "label": "BuilderRegistry",
+            "address": "0xe680632ffb8a15198be30077abbc119ca321dbd3",
+            "network": "Ronin",
+            "source": "https://github.com/ronin-chain/pod-contract/blob/main/src/BuilderRegistry.sol"
+        },
+        {
+            "label": "RewardLaneRegistry",
+            "address": "0xbff5ea1e6593de56cc25cad36e480e0be4cfc78a",
+            "network": "Ronin",
+            "source": "https://github.com/ronin-chain/pod-contract/blob/main/src/RewardLaneRegistry.sol"
+        }
+    ],
+    "categories": [
+        "protocol"
+    ]
+}
