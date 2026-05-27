@@ -1,0 +1,46 @@
+{
+  "contracts": [
+    {
+      "name": "VoltMarketGateway",
+      "address": "0x529946cEb030DD66de89BA45d5C7d246Ee5f1a30",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/mainnet/src/marketplace/gateway/MarketGateway.sol"
+    },
+    {
+      "name": "RoyaltyRegistryV2",
+      "address": "0x754bEEC1b00Cf60fA3143f516ECd671FadAf3a2e",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/mainnet/src/royalty-registry/RoyaltyRegistryV2.sol"
+    },
+    {
+      "name": "RandomnessRelayer",
+      "address": "0x110B04Ed132eAE3bC7206b91fBf26ea2c0927f42",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/mainnet/src/randomness/RandomnessRelayer.sol"
+    },
+    {
+      "name": "AuctionPass",
+      "address": "0xe7fb3e3d5781f22475e2ca39a2c31a9b8b2032b3",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/mainnet/src/auction/AuctionPass.sol"
+    },
+    {
+      "name": "NFTAuctionFactory",
+      "address": "0xf916b309b7a2b468b5266ae36941a64206b2ab13",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/mainnet/src/auction/NFTAuctionFactory.sol"
+    },
+    {
+      "name": "NFTShipment",
+      "address": "0xbFbD6B728AD6BD2F908c64f2A612aA26c6B64FB7",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/mainnet/src/utils/NFTShipment.sol"
+    },
+    {
+      "name": "CollectionCreatorRegistry",
+      "address": "0x469a46527E927DC50C6e4202C73fbFc6A7F4D548",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/marketplace-contracts/blob/mainnet/src/royalty-registry/CollectionCreatorRegistry.sol"
+    },
+  ]
+}
