@@ -65,6 +65,12 @@
       "address": "0xEB2c874a5236e02dA4F35dd5a1470d285f9a2F71",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/template-factory/blob/mainnet/src/TemplateFactory.sol"
+    },
+    {
+      "label": "PriceFeedRegistry",
+      "address": "0x7D21f62Da4ab252159bD865F3E3144B1D94E544D",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/chainlink-data-stream-relayer/blob/main/contracts/src/PriceFeedRegistry.sol"
     }
   ]
 }
