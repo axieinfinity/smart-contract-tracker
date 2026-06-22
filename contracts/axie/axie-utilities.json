@@ -86,9 +86,9 @@
 	},
 	{
       "name": "AxieTerrarium",
-      "address": "0x4c8169bc1fb1a8aeb0d2cb02aa3e5d88ec6bce0a",
+      "address": "0x46a0f9709960d8190fd9c84e5551f6e82c95214b",
       "network": "Ronin",
-      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/CodexMachine.sol"
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/terrariums/AxieTerrarium.sol"
 	}
   ]
 }
