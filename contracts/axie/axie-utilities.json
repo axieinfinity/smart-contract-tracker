@@ -71,17 +71,24 @@
       "address": "0x1cdB9C49Ffc178356cFfC0dB31A94fb41168a734",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/badge/AxieBadge.sol"
-    },{
-			"name": "AxieBattlePass",
-			"address": "0xca7071160fae4211f974964c56ea16332a1c152f",
-			"network": "Ronin",
-			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/battle-pass/AxieBattlePass.sol"
-		},
+    },
+	{
+      "name": "AxieBattlePass",
+      "address": "0xca7071160fae4211f974964c56ea16332a1c152f",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/battle-pass/AxieBattlePass.sol"
+    },
     {
-			"name": "CodexMachine",
-			"address": "0x4c8169bc1fb1a8aeb0d2cb02aa3e5d88ec6bce0a",
-			"network": "Ronin",
-			"source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/CodexMachine.sol"
-		}
+      "name": "CodexMachine",
+      "address": "0x4c8169bc1fb1a8aeb0d2cb02aa3e5d88ec6bce0a",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/CodexMachine.sol"
+	},
+	{
+      "name": "AxieTerrarium",
+      "address": "0x46a0f9709960d8190fd9c84e5551f6e82c95214b",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/terrariums/AxieTerrarium.sol"
+	}
   ]
 }
