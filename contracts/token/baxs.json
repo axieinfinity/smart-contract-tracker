@@ -6,7 +6,7 @@
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/bAXS-contracts/blob/mainnet/src/bAXS.sol",
       "metadata": {
-        "listId": 4,
+        "listId": 2,
         "transferValidator": "0x721C002B0059009a671D00aD1700c9748146cd1B"
       }
     },
