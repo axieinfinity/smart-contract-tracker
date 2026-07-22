@@ -11,6 +11,12 @@
             "address": "0x8c811e3c958e190f5ec15fb376533a3398620500",
             "network": "Ronin",
             "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/contracts/land/map/Land.sol"
+        },
+        {
+            "label": "LandItem",
+            "address": "0x3a1579317883DD086E4100c30fF2Da1F3CA228F7",
+            "network": "Ronin",
+            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/LandItemUpgradeable.sol"
         }
     ]
 }
