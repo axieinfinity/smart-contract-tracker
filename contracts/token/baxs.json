@@ -4,7 +4,11 @@
       "name": "bAXS",
       "address": "0xb4c12d442fb0f90eba1fe5c63498aa91c02bc183",
       "network": "Ronin",
-      "source": "https://github.com/axieinfinity/bAXS-contracts/blob/mainnet/src/bAXS.sol"
+      "source": "https://github.com/axieinfinity/bAXS-contracts/blob/mainnet/src/bAXS.sol",
+      "metadata": {
+        "listId": 2,
+        "transferValidator": "0x721C002B0059009a671D00aD1700c9748146cd1B"
+      }
     },
     {
       "name": "bAXSTaxAuthority",
