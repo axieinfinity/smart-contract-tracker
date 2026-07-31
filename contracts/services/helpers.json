@@ -1,0 +1,28 @@
+{
+  "contracts": [
+    {
+      "name": "Scatter",
+      "address": "0x5d518933351a0bc14b24b329b33b813565608769",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/others/Scatter.sol"
+    },
+    {
+      "name": "WRON Helper",
+      "address": "0xcaf3e62b27a3df0766721d1959d22b066e1a57f1",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/others/WRONHelper.sol"
+    },
+    {
+      "name": "Permit2",
+      "address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+      "network": "Any networks",
+      "source": "https://github.com/Uniswap/permit2/blob/main/src/Permit2.sol"
+    },
+    {
+      "name": "Multicall3",
+      "address": "0xca11bde05977b3631167028862be2a173976ca11",
+      "network": "Any networks",
+      "source": "https://github.com/mds1/multicall3/blob/main/src/Multicall3.sol"
+    },
+  ]
+}
