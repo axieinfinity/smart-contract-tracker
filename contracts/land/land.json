@@ -1,7 +1,13 @@
 {
     "contracts": [
         {
-            "label": "LandDelegationV2Proxy",
+            "label": "LandDelegation",
+            "address": "0x4eC37B7F8fcE7cd2a96839b3C97F3d034FfB52c2",
+            "network": "Ronin",
+            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/LandDelegation.sol"
+        },
+        {
+            "label": "LandDelegationV2",
             "address": "0x6E1c680981a101BF6dC794e1d3bA7fa496eEA12E",
             "network": "Ronin",
             "source": "https://github.com/axieinfinity/land-delegation-contracts/blob/mainnet/src/LandDelegationV2.sol"
