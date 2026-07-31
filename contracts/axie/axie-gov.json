@@ -1,0 +1,22 @@
+{
+  "contracts": [
+    {
+      "name": "AxieVoting-AIP001",
+      "address": "0xe78Ec1a0bC59cD412bF085D8662a2445Af2E58e3",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/forge/AxieForge.sol"
+    },
+    {
+      "name": "AxieVoting-AIP002",
+      "address": "0xEb7C64A067E023aD1f83efCa43d17fc23beebeB5",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/forge/AxieForge.sol"
+    },
+    {
+      "name": "AxieVoting-AIP003",
+      "address": "0x94032e653A0316E1062e86051EAE6C9b88f11959",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/forge/AxieForge.sol"
+    },
+  ]
+}
