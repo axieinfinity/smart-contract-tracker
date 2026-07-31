@@ -20,7 +20,7 @@
     },
     {
       "name": "ERC1155Exchange",
-      "address": "0xb36C9027eD4353fdD7A59d8c40E0dF5221a3764F",
+      "address": "0xae098A4Be9Ff9A1F4d0bd93741C77520C6A21D6C",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/marketplace/order-exchange/ERC1155Exchange.sol"
     },
