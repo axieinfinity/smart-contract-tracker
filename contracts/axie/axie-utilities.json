@@ -84,6 +84,12 @@
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/CodexMachine.sol"
 	},
+    {
+      "name": "AxieDelegation",
+      "address": "0xD6d11474eb323521ada927f14A4b839b90009Ac8",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/delegation/AxieDelegation.sol"
+	},
 	{
       "name": "AxieTerrarium",
       "address": "0x46a0f9709960d8190fd9c84e5551f6e82c95214b",
