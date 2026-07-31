@@ -19,6 +19,12 @@
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/releasing/ReleaseAxieForMaterial.sol"
     },
     {
+      "name": "ReleaseAxieForFun",
+      "address": "0x20DAd05aF3F2663c652495f3e581B3FED926F39c",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/releasing/ReleaseAxieForFun.sol"
+    },
+    {
       "name": "GachaMachine",
       "address": "0x3e0674b1ddc84b0cfd9d773bb2ce23fe8f445de3",
       "network": "Ronin",
