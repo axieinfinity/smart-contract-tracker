@@ -1,0 +1,10 @@
+{
+  "contracts": [
+    {
+      "name": "ClassicPortal",
+      "address": "0x13BB571088984647eCe620E595F4Be4bCddab204",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/portal/classic/ClassicPortal.sol"
+    },
+  ]
+}
