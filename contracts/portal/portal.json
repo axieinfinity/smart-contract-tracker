@@ -6,5 +6,11 @@
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/portal/classic/ClassicPortal.sol"
     },
+    {
+      "name": "Portal",
+      "address": "0x36B628e771b0Ca12A135E0a7b8e0394f99dCe95b",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/portal/Portal.sol"
+    }
   ]
 }
