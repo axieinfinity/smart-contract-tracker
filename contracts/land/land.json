@@ -23,6 +23,18 @@
             "address": "0x3a1579317883DD086E4100c30fF2Da1F3CA228F7",
             "network": "Ronin",
             "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/LandItemUpgradeable.sol"
+        },
+        {
+            "label": "LandStakingPool",
+            "address": "0xb2a5110f163ec592f8f0d4207253d8cbc327d9fb",
+            "network": "Ronin",
+            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/staking/land/LandStakingPool.sol"
+        },
+        {
+            "label": "LandStakingManager",
+            "address": "0x7f27E35170472E7f107d3e55C2B9bCd44aA01dD5",
+            "network": "Ronin",
+            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/staking/land/LandStakingManager.sol"
         }
     ]
 }
