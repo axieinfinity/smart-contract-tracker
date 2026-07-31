@@ -7,6 +7,12 @@
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/forge/AxieForge.sol"
     },
     {
+      "name": "AxieCharm",
+      "address": "0x814A9C959a3Ef6CA44b5e2349e3bBa9845393947",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/tokens/erc1155/AxieERC1155.sol"
+    },
+    {
       "name": "ReleaseAxieForMaterial",
       "address": "0x65e133756d621c0a0f5bb052ba7297b61efb66e9",
       "network": "Ronin",
