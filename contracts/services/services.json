@@ -19,18 +19,6 @@
       "source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/src/wrappers/RoninVRFFeeSponsoring.sol"
     },
     {
-      "name": "Scatter",
-      "address": "0x5d518933351a0bc14b24b329b33b813565608769",
-      "network": "Ronin",
-      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/others/Scatter.sol"
-    },
-    {
-      "name": "WRON Helper",
-      "address": "0xcaf3e62b27a3df0766721d1959d22b066e1a57f1",
-      "network": "Ronin",
-      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/others/WRONHelper.sol"
-    },
-    {
       "label": "PriceFeedRegistry",
       "address": "0x7D21f62Da4ab252159bD865F3E3144B1D94E544D",
       "network": "Ronin",
