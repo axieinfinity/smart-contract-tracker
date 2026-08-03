@@ -29,6 +29,18 @@
       "address": "0x51d1f017ddabbb257705b2972b26fdecdc5b0955",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/nightmare/AxieNightmare.sol"
-    }
+    },
+    {
+      "name": "AxieRedemption",
+      "address": "0xae8e74a21c25c22112749f7a9cd600d4b5cb2191",
+      "network": "Ethereum",
+      "source": "https://github.com/axieinfinity/smart-contracts/blob/master/contracts/presale/AxieRedemption.sol"
+    },
+    {
+      "name": "AxieCore",
+      "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+      "network": "Ethereum",
+      "source": "https://github.com/axieinfinity/smart-contracts/blob/master/contracts/core/AxieCore.sol"
+    },
   ]
 }
