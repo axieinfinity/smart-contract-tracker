@@ -2,7 +2,8 @@
   "contracts": [
     {
       "name": "ProxyAdmin",
-      "address": "0xA3e7d085E65CB0B916f6717da876b7bE5cC92f03",
+      "mainnet_address": "0xA3e7d085E65CB0B916f6717da876b7bE5cC92f03",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.6/contracts/proxy/transparent/ProxyAdmin.sol"
     }

@@ -2,91 +2,106 @@
   "contracts": [
     {
       "name": "KatanaRouter",
-      "address": "0x7d0556d55ca1a92708681e2e231733ebd922597d",
+      "mainnet_address": "0x7d0556d55ca1a92708681e2e231733ebd922597d",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/mocks/dex/KatanaRouter.sol"
     },
     {
       "name": "KatanaFactory",
-      "address": "0xb255d6a720bb7c39fee173ce22113397119cb930",
+      "mainnet_address": "0xb255d6a720bb7c39fee173ce22113397119cb930",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/mocks/dex/KatanaFactory.sol"
     },
     {
       "name": "KatanaPair",
-      "address": "0x0af2cd30a569b0014fc6eb4e2f911902917590d2",
+      "mainnet_address": "0x0af2cd30a569b0014fc6eb4e2f911902917590d2",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/mocks/dex/KatanaPair.sol"
     },
     {
       "name": "AffiliateRouter",
-      "address": "0x77f96cf7b98b963fb8a9b84787806d396d953b2b",
+      "mainnet_address": "0x77f96cf7b98b963fb8a9b84787806d396d953b2b",
+      "testnet_address": "0x4a913d50E618Ee9F61FfA288D8f8040D489d2360",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/katana-dex-contracts/blob/mainnet/src/katana/AffiliateRouter.sol"
     },
     {
       "name": "PermissionedRouter",
-      "address": "0xc05afc8c9353c1dd5f872eccfacd60fd5a2a9ac7",
+      "mainnet_address": "0xc05afc8c9353c1dd5f872eccfacd60fd5a2a9ac7",
+      "testnet_address": "0x3BD36748D17e322cFB63417B059Bcc1059012D83",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/katana-dex-contracts/blob/mainnet/src/katana/PermissionedRouter.sol"
     },
     {
       "name": "KatanaGovernance",
-      "address": "0x2c1726346d83cbf848bd3c2b208ec70d32a9e44a",
+      "mainnet_address": "0x2c1726346d83cbf848bd3c2b208ec70d32a9e44a",
+      "testnet_address": "0x247F12836A421CDC5e22B93Bf5A9AAa0f521f986",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/katana-dex-contracts/blob/mainnet/src/katana/KatanaGovernance.sol"
     },
     {
       "name": "ERC20StakingManager",
-      "address": "0x8bd81a19420bad681b7bfc20e703ebd8e253782d",
+      "mainnet_address": "0x8bd81a19420bad681b7bfc20e703ebd8e253782d",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/dapps-smart-contracts/blob/main/contracts/staking/manager/ERC20StakingManager.sol"
     },
     {
       "name": "FarmFactory",
-      "address": "0xae1e5cd7360bb7d66e8a01febef8441902aeefea",
+      "mainnet_address": "0xae1e5cd7360bb7d66e8a01febef8441902aeefea",
+      "testnet_address": "0xB6B4351e9d3Ed2DBeE4aaDd3BeE9121e72d29C7B",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/katana-dex-contracts/blob/mainnet/src/ERC20StakingProxyFactory.sol"
     },
     {
       "name": "FarmImplementation",
-      "address": "0xe870abf043c669c9e2a0c00712fc1e1742044a8b",
+      "mainnet_address": "0xe870abf043c669c9e2a0c00712fc1e1742044a8b",
+      "testnet_address": "0xcAd87B9C5037Ff53098a1316Fb549bB39E98F836",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/katana-dex-contracts/blob/mainnet/src/erc20-staking/ERC20Staking.sol"
     },
     {
       "name": "Legacy Farm: AXS - WETH",
-      "address": "0x487671acdea3745B6dAc3ae8d1757b44a04bFE8A",
+      "mainnet_address": "0x487671acdea3745B6dAc3ae8d1757b44a04bFE8A",
+      "testnet_address": "0x448a8EDA73Fcd2AB340242EdDd8401E35C347ABa",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/legacy/axie/contracts/staking/pool/ERC20Staking_flatten.sol"
     },
     {
       "name": "Legacy Farm: SLP - WETH",
-      "address": "0xd4640C26C1A31CD632d8Ae1A96fE5ac135D1Eb52",
+      "mainnet_address": "0xd4640C26C1A31CD632d8Ae1A96fE5ac135D1Eb52",
+      "testnet_address": "0x481dc6c1969976838BB0B59959d1F6712790e2A9",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/legacy/axie/contracts/staking/pool/ERC20Staking_flatten.sol"
     },
     {
       "name": "Legacy Farm: RON - WETH",
-      "address": "0xb9072cEc557528f81DD25DC474d4d69564956e1e",
+      "mainnet_address": "0xb9072cEc557528f81DD25DC474d4d69564956e1e",
+      "testnet_address": "0x9E6e4384fFbc4003b6D7aF838728c7a6545f41B3",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/legacy/axie/contracts/staking/pool/ERC20Staking_flatten.sol"
     },
     {
       "name": "Legacy Farm: RON - AXS",
-      "address": "0x14327Fa6A4027d8F08c0a1B7fEdDd178156e9527",
+      "mainnet_address": "0x14327Fa6A4027d8F08c0a1B7fEdDd178156e9527",
+      "testnet_address": "0x08da409C62Af6e27168c73F3B592270D3E6d5841",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/legacy/axie/contracts/staking/pool/ERC20Staking_flatten.sol"
     },
     {
       "name": "Legacy Farm: RON - SLP",
-      "address": "0x4e2d6466a53444248272b913C105e9281eC266d8",
+      "mainnet_address": "0x4e2d6466a53444248272b913C105e9281eC266d8",
+      "testnet_address": "0xB063c25B361270cA9DfA886194dCa78C9c6C5d94",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/legacy/axie/contracts/staking/pool/ERC20Staking_flatten.sol"
     },
     {
       "name": "Legacy Farm: RON - USDC",
-      "address": "0xBa1c32baFf8f23252259A641fd5ca0bd211D4F65",
+      "mainnet_address": "0xBa1c32baFf8f23252259A641fd5ca0bd211D4F65",
+      "testnet_address": "0xc720C38F4cA4b7b4827497E8B89b8CCD45C2fA76",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/legacy/axie/contracts/staking/pool/ERC20Staking_flatten.sol"
     }

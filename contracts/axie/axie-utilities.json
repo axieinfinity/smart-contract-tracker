@@ -2,111 +2,129 @@
   "contracts": [
     {
       "name": "AxieForge",
-      "address": "0xee85902589eb0c7f88603bb203045b885a1c3a98",
+      "mainnet_address": "0xee85902589eb0c7f88603bb203045b885a1c3a98",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/forge/AxieForge.sol"
     },
     {
       "name": "AxieCharm",
-      "address": "0x814A9C959a3Ef6CA44b5e2349e3bBa9845393947",
+      "mainnet_address": "0x814A9C959a3Ef6CA44b5e2349e3bBa9845393947",
+      "testnet_address": "0xdAB4B1863e132Bcdd853635Db7848F6C5F442cC8",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/tokens/erc1155/AxieERC1155.sol"
     },
     {
       "name": "ReleaseAxieForMaterial",
-      "address": "0x65e133756d621c0a0f5bb052ba7297b61efb66e9",
+      "mainnet_address": "0x65e133756d621c0a0f5bb052ba7297b61efb66e9",
+      "testnet_address": "0xC6750947e9199915Eed75326a026469fdaFa0acB",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/releasing/ReleaseAxieForMaterial.sol"
     },
     {
       "name": "ReleaseAxieForFun",
-      "address": "0x20DAd05aF3F2663c652495f3e581B3FED926F39c",
+      "mainnet_address": "0x20DAd05aF3F2663c652495f3e581B3FED926F39c",
+      "testnet_address": "0x7B025150393524F401507a0b5abd0d6385ce01Db",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/releasing/ReleaseAxieForFun.sol"
     },
     {
       "name": "GachaMachine",
-      "address": "0x3e0674b1ddc84b0cfd9d773bb2ce23fe8f445de3",
+      "mainnet_address": "0x3e0674b1ddc84b0cfd9d773bb2ce23fe8f445de3",
+      "testnet_address": "0xe081039Cf29bEb2c8F3FFeB94F56e4cD2A0AFd79",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/GachaMachine.sol"
     },
     {
       "name": "AxieVault",
-      "address": "0xA095d26ee12e81262fA2F16E5fc5886183487Ce7",
+      "mainnet_address": "0xA095d26ee12e81262fA2F16E5fc5886183487Ce7",
+      "testnet_address": "0x6a748D7fda0A4B3f0670f95892794726C004e685",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/AxieVault.sol"
     },
     {
       "name": "AxieConsumableERC1155",
-      "address": "0x737b80335a9396A8658405d7ADCbc57343Ff0558",
+      "mainnet_address": "0x737b80335a9396A8658405d7ADCbc57343Ff0558",
+      "testnet_address": "0x157Ba81e37C3A351f7c00ae208273a05282E2f26",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/consumable/AxieConsumableERC1155.sol"
     },
     {
       "name": "AxieAccessory",
-      "address": "0xbd1f28aabe799df4735d8da3841007580e509f08",
+      "mainnet_address": "0xbd1f28aabe799df4735d8da3841007580e509f08",
+      "testnet_address": "0x3b75a02247b7C582a42cbC5c30A35812D63cEb52",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/AxieAccessoryCollection.sol"
     },
-		{
+    {
       "name": "AxieAccessoryERC1155",
-      "address": "0x4f1bde3636a0a3127d6fa0f86f213e9ee1f296fb",
+      "mainnet_address": "0x4f1bde3636a0a3127d6fa0f86f213e9ee1f296fb",
+      "testnet_address": "0xDE3BAA00A1AbA9eAdF923858CcC1905B3C307302",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/tokens/erc1155/AxieAccessoryERC1155.sol"
     },
     {
       "name": "AxieConsumableConsumer",
-      "address": "0xEaa3D9aF9c9C218daE63922C97eeEe6C3F770e15",
+      "mainnet_address": "0xEaa3D9aF9c9C218daE63922C97eeEe6C3F770e15",
+      "testnet_address": "0xf1A07Cfa5f0eA535B82E8649C634BDb309bAd17D",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/consumable/AxieConsumableConsumer.sol"
     },
     {
       "name": "MaterialERC1155",
-      "address": "0x12B707c3D2786570cFdc3A998a085b62ACDba4B3",
+      "mainnet_address": "0x12B707c3D2786570cFdc3A998a085b62ACDba4B3",
+      "testnet_address": "0xDb39F4C634827ef2Bcdb7E6392D300ffB161caFc",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/material/MaterialERC1155.sol"
     },
     {
       "name": "AtiaShrine",
-      "address": "0x9d3936dbd9a794ee31ef9f13814233d435bd806c",
+      "mainnet_address": "0x9d3936dbd9a794ee31ef9f13814233d435bd806c",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/atia-shrine/AtiaShrine.sol"
     },
     {
       "name": "AxieVoting",
-      "address": "0xe78Ec1a0bC59cD412bF085D8662a2445Af2E58e3",
+      "mainnet_address": "0xe78Ec1a0bC59cD412bF085D8662a2445Af2E58e3",
+      "testnet_address": "0xDa15f74233ea6F665b6173897ce4B70F3FaA2349",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie-governance/AxieVoting.sol"
     },
     {
       "name": "AxieBadge",
-      "address": "0x1cdB9C49Ffc178356cFfC0dB31A94fb41168a734",
+      "mainnet_address": "0x1cdB9C49Ffc178356cFfC0dB31A94fb41168a734",
+      "testnet_address": "0x850E94871186559A1e013479aABC309380f72C8D",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/badge/AxieBadge.sol"
     },
-	{
+    {
       "name": "AxieBattlePass",
-      "address": "0xca7071160fae4211f974964c56ea16332a1c152f",
+      "mainnet_address": "0xca7071160fae4211f974964c56ea16332a1c152f",
+      "testnet_address": "0x072ba6574B25e175F25E0bCf9ca9993C6ECeb014",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/battle-pass/AxieBattlePass.sol"
     },
     {
       "name": "CodexMachine",
-      "address": "0x4c8169bc1fb1a8aeb0d2cb02aa3e5d88ec6bce0a",
+      "mainnet_address": "0x4c8169bc1fb1a8aeb0d2cb02aa3e5d88ec6bce0a",
+      "testnet_address": "0xd90FEf672c311dcfE33bCBf8369Fd87d06E800F7",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/gacha/CodexMachine.sol"
-	},
+    },
     {
       "name": "AxieDelegation",
-      "address": "0xD6d11474eb323521ada927f14A4b839b90009Ac8",
+      "mainnet_address": "0xD6d11474eb323521ada927f14A4b839b90009Ac8",
+      "testnet_address": "0x5fAAEc0D6ef8F2c3bF31D6C3b871332a69d74473",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/delegation/AxieDelegation.sol"
-	},
-	{
+    },
+    {
       "name": "AxieTerrarium",
-      "address": "0x46a0f9709960d8190fd9c84e5551f6e82c95214b",
+      "mainnet_address": "0x46a0f9709960d8190fd9c84e5551f6e82c95214b",
+      "testnet_address": "0x6b7b611881386130373947Af49F3B7ED75Efb7c0",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/terrariums/AxieTerrarium.sol"
-	}
+    }
   ]
 }

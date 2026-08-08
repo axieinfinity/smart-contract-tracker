@@ -2,25 +2,29 @@
   "contracts": [
     {
       "name": "MarketGatewayMultiSend",
-      "address": "0x21a0a1C081DC2F3E48dC391786F53035F85CE0bc",
+      "mainnet_address": "0x21a0a1C081DC2F3E48dC391786F53035F85CE0bc",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/marketplace/MarketGatewayMultiSend.sol"
     },
     {
       "name": "MarketplaceReferral",
-      "address": "0xb977383f1c797051ac5361f7ba75db0c46cb6372",
+      "mainnet_address": "0xb977383f1c797051ac5361f7ba75db0c46cb6372",
+      "testnet_address": "0x2884a655b143ceA487387fF1e3eD3bf2B9DC52ae",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/marketplace/MarketCommission.sol"
     },
     {
       "name": "MarketplaceGateway",
-      "address": "0xfff9ce5f71ca6178d3beecedb61e7eff1602950e",
+      "mainnet_address": "0xfff9ce5f71ca6178d3beecedb61e7eff1602950e",
+      "testnet_address": "0xa7bE1F3C47f191217a6e0bf3F7d05cA39427E0af",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/marketplace/gateway/MarketGateway.sol"
     },
     {
       "name": "AppAxieOrderExchange",
-      "address": "0xe35CbC0a0F2025E3bD9ec8e1f30644Df333C820f",
+      "mainnet_address": "0xe35CbC0a0F2025E3bD9ec8e1f30644Df333C820f",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/marketplace/app.axie/AppAxieOrderExchange.sol"
     }

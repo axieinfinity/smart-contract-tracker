@@ -1,40 +1,46 @@
 {
-    "contracts": [
-        {
-            "label": "LandDelegation",
-            "address": "0x4eC37B7F8fcE7cd2a96839b3C97F3d034FfB52c2",
-            "network": "Ronin",
-            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/LandDelegation.sol"
-        },
-        {
-            "label": "LandDelegationV2",
-            "address": "0x6E1c680981a101BF6dC794e1d3bA7fa496eEA12E",
-            "network": "Ronin",
-            "source": "https://github.com/axieinfinity/land-delegation-contracts/blob/mainnet/src/LandDelegationV2.sol"
-        },
-        {
-            "label": "Land",
-            "address": "0x8c811e3c958e190f5ec15fb376533a3398620500",
-            "network": "Ronin",
-            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/contracts/land/map/Land.sol"
-        },
-        {
-            "label": "LandItem",
-            "address": "0x3a1579317883DD086E4100c30fF2Da1F3CA228F7",
-            "network": "Ronin",
-            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/LandItemUpgradeable.sol"
-        },
-        {
-            "label": "LandStakingPool",
-            "address": "0xb2a5110f163ec592f8f0d4207253d8cbc327d9fb",
-            "network": "Ronin",
-            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/staking/land/LandStakingPool.sol"
-        },
-        {
-            "label": "LandStakingManager",
-            "address": "0x7f27E35170472E7f107d3e55C2B9bCd44aA01dD5",
-            "network": "Ronin",
-            "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/staking/land/LandStakingManager.sol"
-        }
-    ]
+  "contracts": [
+    {
+      "label": "LandDelegation",
+      "mainnet_address": "0x4eC37B7F8fcE7cd2a96839b3C97F3d034FfB52c2",
+      "testnet_address": "0xdaC5d75A271D012397E12073344D9B61D4b41Fd0",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/LandDelegation.sol"
+    },
+    {
+      "label": "LandDelegationV2",
+      "mainnet_address": "0x6E1c680981a101BF6dC794e1d3bA7fa496eEA12E",
+      "testnet_address": "0xf3a59bbb9d67d37f7876df9e545bc4aa41d9e55b",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/land-delegation-contracts/blob/mainnet/src/LandDelegationV2.sol"
+    },
+    {
+      "label": "Land",
+      "mainnet_address": "0x8c811e3c958e190f5ec15fb376533a3398620500",
+      "testnet_address": "0x70bd60F625F6Dd082aE1f59b80DC78CfA8B47F18",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/contracts/land/map/Land.sol"
+    },
+    {
+      "label": "LandItem",
+      "mainnet_address": "0x3a1579317883DD086E4100c30fF2Da1F3CA228F7",
+      "testnet_address": "0x55dB945f1B976d509Df24aa0CC66BC67546086Ef",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/land/LandItemUpgradeable.sol"
+    },
+    {
+      "label": "LandStakingPool",
+      "mainnet_address": "0xb2a5110f163ec592f8f0d4207253d8cbc327d9fb",
+      "testnet_address": "0x74f4aeB84F1535A777CC9B24f4C4B703F2402868",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/staking/land/LandStakingPool.sol"
+    },
+    {
+      "label": "LandStakingManager",
+      "mainnet_address": "0x7f27E35170472E7f107d3e55C2B9bCd44aA01dD5",
+      "testnet_address": "",
+      "network": "Ronin",
+      "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/staking/land/LandStakingManager.sol"
+    }
+  ]
 }
