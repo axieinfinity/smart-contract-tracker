@@ -2,27 +2,31 @@
   "contracts": [
     {
       "name": "Scatter",
-      "address": "0x5d518933351a0bc14b24b329b33b813565608769",
+      "mainnet_address": "0x5d518933351a0bc14b24b329b33b813565608769",
+      "testnet_address": "0xFc4090C0A3c07155484Da061B9d9cB8650e6A8cC",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/others/Scatter.sol"
     },
     {
       "name": "WRON Helper",
-      "address": "0xcaf3e62b27a3df0766721d1959d22b066e1a57f1",
+      "mainnet_address": "0xcaf3e62b27a3df0766721d1959d22b066e1a57f1",
+      "testnet_address": "0x2D3Aa3503B4EB3EEea370e2e089E3DEe43D5091C",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/others/WRONHelper.sol"
     },
     {
       "name": "Permit2",
-      "address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+      "mainnet_address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+      "testnet_address": "",
       "network": "Any networks",
       "source": "https://github.com/Uniswap/permit2/blob/main/src/Permit2.sol"
     },
     {
       "name": "Multicall3",
-      "address": "0xca11bde05977b3631167028862be2a173976ca11",
+      "mainnet_address": "0xca11bde05977b3631167028862be2a173976ca11",
+      "testnet_address": "",
       "network": "Any networks",
       "source": "https://github.com/mds1/multicall3/blob/main/src/Multicall3.sol"
-    },
+    }
   ]
 }

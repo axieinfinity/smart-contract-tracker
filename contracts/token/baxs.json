@@ -2,7 +2,8 @@
   "contracts": [
     {
       "name": "bAXS",
-      "address": "0xb4c12d442fb0f90eba1fe5c63498aa91c02bc183",
+      "mainnet_address": "0xb4c12d442fb0f90eba1fe5c63498aa91c02bc183",
+      "testnet_address": "0x7446DF8Ed89f188ccC61F5515F60b51eF346d8ea",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/bAXS-contracts/blob/mainnet/src/bAXS.sol",
       "metadata": {
@@ -12,25 +13,29 @@
     },
     {
       "name": "bAXSTaxAuthority",
-      "address": "0x397e608e1688dd52485e29e3bd665c59e06d334c",
+      "mainnet_address": "0x397e608e1688dd52485e29e3bd665c59e06d334c",
+      "testnet_address": "0x19F2AF6B0e1c9A97050004c71e438E0119A6d7D1",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/bAXS-contracts/blob/mainnet/src/bAXSTaxAuthority.sol"
     },
     {
       "name": "bAXSStakingEscrowLogic",
-      "address": "0x2ded9c24ba6f16a37d82a3c9a379135cc064845e",
+      "mainnet_address": "0x2ded9c24ba6f16a37d82a3c9a379135cc064845e",
+      "testnet_address": "0xb6Af1dBfA45eDa3A5DF2ff2aAe54ce5847F9db4d",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/bAXS-contracts/blob/mainnet/src/staking/bAXSStakingEscrow.sol"
     },
     {
       "name": "UpgradeableBeacon",
-      "address": "0xb8dda29bb288e5df9c82f1488ca7b562f3547091",
+      "mainnet_address": "0xb8dda29bb288e5df9c82f1488ca7b562f3547091",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/openzeppelin/openzeppelin-contracts/blob/master/contracts/proxy/beacon/UpgradeableBeacon.sol"
     },
     {
       "name": "bAXSStakingEscrowFactory",
-      "address": "0xfc621e365815a0eaf3e140bf5087646ce6e82fc3",
+      "mainnet_address": "0xfc621e365815a0eaf3e140bf5087646ce6e82fc3",
+      "testnet_address": "0x7AaCc04E83900614e253aE04Ee145831951e0093",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/bAXS-contracts/blob/mainnet/src/staking/bAXSStakingEscrowFactory.sol"
     }
