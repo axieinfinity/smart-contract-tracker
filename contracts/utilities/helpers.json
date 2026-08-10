@@ -17,14 +17,14 @@
     {
       "name": "Permit2",
       "mainnet_address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
-      "testnet_address": "",
+      "testnet_address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
       "network": "Any networks",
       "source": "https://github.com/Uniswap/permit2/blob/main/src/Permit2.sol"
     },
     {
       "name": "Multicall3",
       "mainnet_address": "0xca11bde05977b3631167028862be2a173976ca11",
-      "testnet_address": "",
+      "testnet_address": "0xca11bde05977b3631167028862be2a173976ca11",
       "network": "Any networks",
       "source": "https://github.com/mds1/multicall3/blob/main/src/Multicall3.sol"
     }
