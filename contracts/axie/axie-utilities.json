@@ -3,7 +3,7 @@
     {
       "name": "AxieForge",
       "mainnet_address": "0xee85902589eb0c7f88603bb203045b885a1c3a98",
-      "testnet_address": "",
+      "testnet_address": "0x8b6C7a54e66A0a7ECe803DF3E163C4f2a4DB6cD2",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/forge/AxieForge.sol"
     },
