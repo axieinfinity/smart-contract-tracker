@@ -2,63 +2,73 @@
   "contracts": [
     {
       "name": "RewardDispenser",
-      "address": "0x919a03764c1099Ecb77E1532468D55E5baaC8afF",
+      "mainnet_address": "0x919a03764c1099Ecb77E1532468D55E5baaC8afF",
+      "testnet_address": "0xA5fB8AfeAAbE00e4Ba41DF15993A26E8B3CFb23b",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDispenser.sol"
     },
     {
       "name": "RewardDistributorForBAXSAirdrop",
-      "address": "0xb31e155580F6a112748E96bc13076ED04BCB72B7",
+      "mainnet_address": "0xb31e155580F6a112748E96bc13076ED04BCB72B7",
+      "testnet_address": "0x45637D62D0547404432Fd4bf5E91Af7A0645594b",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributor.sol"
     },
     {
       "name": "RewardDistributorForTerrarium",
-      "address": "0x8A79D5d29208605426Cabb43a4DFC4cA31baebD0",
+      "mainnet_address": "0x8A79D5d29208605426Cabb43a4DFC4cA31baebD0",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributor.sol"
     },
     {
       "name": "RewardDistributorForClassic",
-      "address": "0x6530bF3D49351c4d76C18D49aC22814153Ede589",
+      "mainnet_address": "0x6530bF3D49351c4d76C18D49aC22814153Ede589",
+      "testnet_address": "0x39698Bb41eD745DDA4A6e8Ae8BbD096F67b277ee",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributor.sol"
     },
     {
       "name": "RewardDistributorForDuetMonster",
-      "address": "0xf5F10Ba656fd800848a43feAA00cd88512783317",
+      "mainnet_address": "0xf5F10Ba656fd800848a43feAA00cd88512783317",
+      "testnet_address": "0x8C96F0e844ED35072bfff5283Acb64d57Bd26011",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributor.sol"
     },
     {
       "name": "RewardDistributorForWalletQuest",
-      "address": "0x81588C2db2F47851960DCDc1366A2331355baDf5",
+      "mainnet_address": "0x81588C2db2F47851960DCDc1366A2331355baDf5",
+      "testnet_address": "0x7d1Ab76DFd343cA0354b6bdbe9E38871BcbDFab3",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributor.sol"
     },
     {
       "name": "RewardDistributorForOrigin",
-      "address": "0xD609ECedbd02858DdA812621A27b68C52732cC01",
+      "mainnet_address": "0xD609ECedbd02858DdA812621A27b68C52732cC01",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributor.sol"
     },
     {
       "name": "RewardDistributorForHomeLand",
-      "address": "0x193E04A8944D9AAA57Abd2586B0C5C8044d21804",
+      "mainnet_address": "0x193E04A8944D9AAA57Abd2586B0C5C8044d21804",
+      "testnet_address": "0x4181357Bdc36bc774ae2AE9Fe1611568F4d3d263",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributor.sol"
     },
     {
       "name": "RewardDistributorForAxieQuest",
-      "address": "0x21D18aE443f86a755bA47d6241C49c5bcf070BBF",
+      "mainnet_address": "0x21D18aE443f86a755bA47d6241C49c5bcf070BBF",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributor.sol"
     },
     {
       "name": "RewardDistributorForJFSMetadata",
-      "address": "0x81588C2db2F47851960DCDc1366A2331355baDf5",
+      "mainnet_address": "0x81588C2db2F47851960DCDc1366A2331355baDf5",
+      "testnet_address": "0x7d1Ab76DFd343cA0354b6bdbe9E38871BcbDFab3",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/rewarding/RewardDistributorWithMetadata.sol"
-    },
+    }
   ]
 }

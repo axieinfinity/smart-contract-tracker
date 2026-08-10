@@ -2,45 +2,52 @@
   "contracts": [
     {
       "name": "Axie",
-      "address": "0x32950db2a7164ae833121501c797d79e7b79d74c",
+      "mainnet_address": "0x32950db2a7164ae833121501c797d79e7b79d74c",
+      "testnet_address": "0xcaCA1c072D26E46686d932686015207FbE08FdB8",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/legacy/axie/contracts/axie/core/Axie.sol"
     },
     {
       "name": "AxieBreeding",
-      "address": "0x74d1ca99f9ed20f1b9ed4297ffe245ceaacf519e",
+      "mainnet_address": "0x74d1ca99f9ed20f1b9ed4297ffe245ceaacf519e",
+      "testnet_address": "0xce00E290FDc1EEaf824315d7edf780736fFA50B3",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/breed/AxieBreeding.sol"
     },
     {
       "name": "AxieAscend",
-      "address": "0xdd1cf28ab12413501ea6750083dc027c5857f4d0",
+      "mainnet_address": "0xdd1cf28ab12413501ea6750083dc027c5857f4d0",
+      "testnet_address": "0xFc8FD1384c2e5223f072667A055a95D5246B5CF3",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/ascend/AxieAscend.sol"
     },
     {
       "name": "PartEvolution",
-      "address": "0x6e8699915b5328363855af28543d4bdb7439db71",
+      "mainnet_address": "0x6e8699915b5328363855af28543d4bdb7439db71",
+      "testnet_address": "0x9b7fe3a00A43aaE19c2661Cc877363354Cba5c0A",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/evolution/PartEvolution.sol"
     },
     {
       "name": "AxieNightmare",
-      "address": "0x51d1f017ddabbb257705b2972b26fdecdc5b0955",
+      "mainnet_address": "0x51d1f017ddabbb257705b2972b26fdecdc5b0955",
+      "testnet_address": "0x4E717A28465399D758fF1b10FaF38F897aBb28cc",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/nightmare/AxieNightmare.sol"
     },
     {
       "name": "AxieRedemption",
-      "address": "0xae8e74a21c25c22112749f7a9cd600d4b5cb2191",
+      "mainnet_address": "0xae8e74a21c25c22112749f7a9cd600d4b5cb2191",
+      "testnet_address": "",
       "network": "Ethereum",
       "source": "https://github.com/axieinfinity/smart-contracts/blob/master/contracts/presale/AxieRedemption.sol"
     },
     {
       "name": "AxieCore",
-      "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+      "mainnet_address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+      "testnet_address": "",
       "network": "Ethereum",
       "source": "https://github.com/axieinfinity/smart-contracts/blob/master/contracts/core/AxieCore.sol"
-    },
+    }
   ]
 }

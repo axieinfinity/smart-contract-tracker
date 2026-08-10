@@ -2,21 +2,24 @@
   "contracts": [
     {
       "name": "WhitelistDeployerV2",
-      "address": "0xc1876d5C4BFAF0eE325E4226B2bdf216D9896AE1",
+      "mainnet_address": "0xc1876d5C4BFAF0eE325E4226B2bdf216D9896AE1",
+      "testnet_address": "0x50a7e07Aa75eB9C04281713224f50403cA79851F",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/whitelist-deployer/WhitelistDeployerV2.sol"
     },
     {
       "name": "ChristmasAxieRelease2022",
-      "address": "0x16f222B84F76a0941935949566da93e3147723Bf",
+      "mainnet_address": "0x16f222B84F76a0941935949566da93e3147723Bf",
+      "testnet_address": "0x50bed2DD2e5CFCF76366f484063c6035f9BEc536",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/christmas/ChristmasAxieRelease2022.sol"
     },
     {
       "name": "BreedingEvent2022",
-      "address": "0xA67Bf2b8453a696D1CdDFc62c8174B47713a060d",
+      "mainnet_address": "0xA67Bf2b8453a696D1CdDFc62c8174B47713a060d",
+      "testnet_address": "0x9EDe838d262bebD5A1593669238Ee1D5ed633145",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/BreedingEvent2022.sol"
-    },
+    }
   ]
 }

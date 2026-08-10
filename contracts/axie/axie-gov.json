@@ -2,21 +2,24 @@
   "contracts": [
     {
       "name": "AxieVoting-AIP001",
-      "address": "0xe78Ec1a0bC59cD412bF085D8662a2445Af2E58e3",
+      "mainnet_address": "0xe78Ec1a0bC59cD412bF085D8662a2445Af2E58e3",
+      "testnet_address": "0xDa15f74233ea6F665b6173897ce4B70F3FaA2349",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/governance/AxieVoting.sol"
     },
     {
       "name": "AxieVoting-AIP002",
-      "address": "0xEb7C64A067E023aD1f83efCa43d17fc23beebeB5",
+      "mainnet_address": "0xEb7C64A067E023aD1f83efCa43d17fc23beebeB5",
+      "testnet_address": "0x71635B34B5EcE6cfA67F22fF69899144EFC8C284",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/governance/AxieVoting.sol"
     },
     {
       "name": "AxieVoting-AIP003",
-      "address": "0x94032e653A0316E1062e86051EAE6C9b88f11959",
+      "mainnet_address": "0x94032e653A0316E1062e86051EAE6C9b88f11959",
+      "testnet_address": "0x8dBf70f8dCc1C66D29b376Ec2aCC089a96b938e3",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/axie/governance/AxieVoting.sol"
-    },
+    }
   ]
 }

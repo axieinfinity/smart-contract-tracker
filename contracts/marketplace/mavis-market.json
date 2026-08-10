@@ -2,85 +2,99 @@
   "contracts": [
     {
       "name": "MarketCommission",
-      "address": "0x35d30aefe3d3620b644336229d1f3a2bffbf4917",
+      "mainnet_address": "0x35d30aefe3d3620b644336229d1f3a2bffbf4917",
+      "testnet_address": "0x2884a655b143ceA487387fF1e3eD3bf2B9DC52ae",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/marketplace/MarketCommission.sol"
     },
     {
       "name": "MavisMarketGateway",
-      "address": "0x3B3aDf1422f84254B7fbb0e7cA62Bd0865133fe3",
+      "mainnet_address": "0x3B3aDf1422f84254B7fbb0e7cA62Bd0865133fe3",
+      "testnet_address": "0x2488A13a4D635B0BACF7eF59911E54efeaF573eB",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/marketplace/gateway/MarketGateway.sol"
     },
     {
       "name": "MavisOrderExchange",
-      "address": "0xB24592970973a80014fa80Feb895873094909B3C",
+      "mainnet_address": "0xB24592970973a80014fa80Feb895873094909B3C",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/marketplace/mavis/MavisOrderExchange.sol"
     },
     {
       "name": "ERC1155Exchange",
-      "address": "0xae098A4Be9Ff9A1F4d0bd93741C77520C6A21D6C",
+      "mainnet_address": "0xae098A4Be9Ff9A1F4d0bd93741C77520C6A21D6C",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/marketplace/order-exchange/ERC1155Exchange.sol"
     },
     {
       "name": "SwapForwarder",
-      "address": "0x133fa77DeA36B311292201EfDdFC58Cbe3A140b7",
+      "mainnet_address": "0x133fa77DeA36B311292201EfDdFC58Cbe3A140b7",
+      "testnet_address": "0x9a63Bc0959FE2784620d43D53af64341C99d81b4",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/SwapForwarder.sol"
     },
     {
       "name": "Mavis Launchpad",
-      "address": "0xa8e9FDF57bBd991c3F494273198606632769Db99",
+      "mainnet_address": "0xa8e9FDF57bBd991c3F494273198606632769Db99",
+      "testnet_address": "0x9EaF882F8CdFef42a3c272365f9cd069A220cE7c",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/MavisLaunchpad.sol"
     },
     {
       "name": "PublicStageLogic",
-      "address": "0x8C6b811DC467Dbe2aBeB4ED0576f5B64869dC0DF",
+      "mainnet_address": "0x8C6b811DC467Dbe2aBeB4ED0576f5B64869dC0DF",
+      "testnet_address": "0x72eD3197b516592B3b7A0FeD1EB2b61e6C0b5046",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/stage-logic/PublicStageLogic.sol"
     },
     {
       "name": "AllowedListStageLogic",
-      "address": "0xE318c092Cd60b3F7b3194b6155A13e1594B5DAd2",
+      "mainnet_address": "0xE318c092Cd60b3F7b3194b6155A13e1594B5DAd2",
+      "testnet_address": "0x70a57655Cd46a6E13469C57e27903D5AB5b3bBbF",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/stage-logic/AllowlistStageLogic.sol"
     },
     {
       "name": "TokenGatedStageLogic",
-      "address": "0x3B3aDf1422f84254B7fbb0e7cA62Bd0865133fe3",
+      "mainnet_address": "0x3B3aDf1422f84254B7fbb0e7cA62Bd0865133fe3",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/stage-logic/TokenGatedStageLogic.sol"
     },
     {
       "name": "Mavis Presale",
-      "address": "0x18B30E4F0085cd3D705a22D3dB7cCAa9db1e5022",
+      "mainnet_address": "0x18B30E4F0085cd3D705a22D3dB7cCAa9db1e5022",
+      "testnet_address": "",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/presale/MavisPresale.sol"
     },
     {
       "name": "PresaleFactory",
-      "address": "0xb13e7746B891b1F548596E4cE1CAfDBB2aE4454f",
+      "mainnet_address": "0xb13e7746B891b1F548596E4cE1CAfDBB2aE4454f",
+      "testnet_address": "0x79da377d88703e16e847d90599B94c1BF6412918",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/launchpad-contracts/blob/mainnet/src/presale/PresaleFactory.sol"
     },
     {
       "name": "CollectionOffer",
-      "address": "0x3ef234bc2a04d86f6041e419458d9acbd077f2c1",
+      "mainnet_address": "0x3ef234bc2a04d86f6041e419458d9acbd077f2c1",
+      "testnet_address": "0x600d33dBf78A97C1B6a02EFbeBcbd7f83a04ACC5",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.0/src/collection-offer/CollectionOffer.sol"
     },
     {
       "name": "RoyaltyRegistry",
-      "address": "0x5afa3e25a620c66bb401e916680316ec80cba676",
+      "mainnet_address": "0x5afa3e25a620c66bb401e916680316ec80cba676",
+      "testnet_address": "0x7249A5D0375800189bba9dc38E7D8F613fE1c57d",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.0.1/src/royalty-registry/RoyaltyRegistry.sol"
     },
     {
       "name": "NFTMysteryPackFactory",
-      "address": "0xcf642977657e7b3fc6b26e6e5091536bea61b6dc",
+      "mainnet_address": "0xcf642977657e7b3fc6b26e6e5091536bea61b6dc",
+      "testnet_address": "0x6ea5B004AeaAee70bD5703B0dF2dE94BD2BC4B3b",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/marketplace-contracts/blob/v1.1.1/src/mystery-pack/NFTMysteryPackFactory.sol"
     }

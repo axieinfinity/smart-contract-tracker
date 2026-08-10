@@ -2,13 +2,15 @@
   "contracts": [
     {
       "name": "ClassicPortal",
-      "address": "0x13BB571088984647eCe620E595F4Be4bCddab204",
+      "mainnet_address": "0x13BB571088984647eCe620E595F4Be4bCddab204",
+      "testnet_address": "0x9a2744b5B6FdB224Ea8C2b3BE7aA89B3603E85d2",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/portal/classic/ClassicPortal.sol"
     },
     {
       "name": "Portal",
-      "address": "0x36B628e771b0Ca12A135E0a7b8e0394f99dCe95b",
+      "mainnet_address": "0x36B628e771b0Ca12A135E0a7b8e0394f99dCe95b",
+      "testnet_address": "0xc255Fc4A578Bb478F8773953878cB85014E08f20",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/portal/Portal.sol"
     }

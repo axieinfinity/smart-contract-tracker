@@ -1,70 +1,80 @@
 {
-    "name": "Ronin DPoS",
-    "description": "Ronin DPoS contracts",
-    "contracts": [
-        {
-            "label": "FastFinalityTrackingProxy",
-            "address": "0xA30B2932CD8b8A89E34551Cdfa13810af38dA576",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/fast-finality/FastFinalityTracking.sol"
-        },
-        {
-            "label": "MaintenanceProxy",
-            "address": "0x6F45C1f8d84849D497C6C0Ac4c3842DC82f49894",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/Maintenance.sol"
-        },
-        {
-            "label": "ProfileProxy",
-            "address": "0x840EBf1CA767CB690029E91856A357a43B85d035",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/profile/Profile.sol"
-        },
-        {
-            "label": "RoninGovernanceAdmin",
-            "address": "0x70fd02049333337a534a9383149c9a99ddf65495",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/RoninGovernanceAdmin.sol"
-        },
-        {
-            "label": "RoninRandomBeaconProxy",
-            "address": "0xaE4788294759C1ea2d095766Cc902786ba2280dc",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/random-beacon/RoninRandomBeacon.sol"
-        },
-        {
-            "label": "RoninTrustedOrganizationProxy",
-            "address": "0x98D0230884448B3E2f09a177433D60fb1E19C090",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/multi-chains/RoninTrustedOrganization.sol"
-        },
-        {
-            "label": "RoninValidatorSetProxy",
-            "address": "0x617c5d73662282EA7FfD231E020eCa6D2B0D552f",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/validator/RoninValidatorSet.sol"
-        },
-        {
-            "label": "SlashIndicatorProxy",
-            "address": "0xEBFFF2b32fA0dF9C5C8C5d5AAa7e8b51d5207bA3",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/slash-indicator/SlashIndicator.sol"
-        },
-        {
-            "label": "StakingProxy",
-            "address": "0x545edb750eB8769C868429BE9586F5857A768758",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/staking/Staking.sol"
-        },
-        {
-            "label": "StakingVestingProxy",
-            "address": "0xC768423A2AE2B5024cB58F3d6449A8f5DB6D8816",
-            "network": "Ronin",
-            "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/StakingVesting.sol"
-        }
-    ],
-    "categories": [
-        "finance",
-        "protocol"
-    ]
+  "name": "Ronin DPoS",
+  "description": "Ronin DPoS contracts",
+  "contracts": [
+    {
+      "label": "FastFinalityTrackingProxy",
+      "mainnet_address": "0xA30B2932CD8b8A89E34551Cdfa13810af38dA576",
+      "testnet_address": "0x41aCDFe786171824a037f2Cd6224c5916A58969a",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/fast-finality/FastFinalityTracking.sol"
+    },
+    {
+      "label": "MaintenanceProxy",
+      "mainnet_address": "0x6F45C1f8d84849D497C6C0Ac4c3842DC82f49894",
+      "testnet_address": "0x4016C80D97DDCbe4286140446759a3f0c1d20584",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/Maintenance.sol"
+    },
+    {
+      "label": "ProfileProxy",
+      "mainnet_address": "0x840EBf1CA767CB690029E91856A357a43B85d035",
+      "testnet_address": "0x3b67c8D22a91572a6AB18acC9F70787Af04A4043",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/profile/Profile.sol"
+    },
+    {
+      "label": "RoninGovernanceAdmin",
+      "mainnet_address": "0x70fd02049333337a534a9383149c9a99ddf65495",
+      "testnet_address": "0x53Ea388CB72081A3a397114a43741e7987815896",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/RoninGovernanceAdmin.sol"
+    },
+    {
+      "label": "RoninRandomBeaconProxy",
+      "mainnet_address": "0xaE4788294759C1ea2d095766Cc902786ba2280dc",
+      "testnet_address": "0xfa7c62096c5e277eeb85b4ad33889df534dd2b9c",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/random-beacon/RoninRandomBeacon.sol"
+    },
+    {
+      "label": "RoninTrustedOrganizationProxy",
+      "mainnet_address": "0x98D0230884448B3E2f09a177433D60fb1E19C090",
+      "testnet_address": "0x7507dc433a98E1fE105d69f19f3B40E4315A4F32",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/multi-chains/RoninTrustedOrganization.sol"
+    },
+    {
+      "label": "RoninValidatorSetProxy",
+      "mainnet_address": "0x617c5d73662282EA7FfD231E020eCa6D2B0D552f",
+      "testnet_address": "0x54B3AC74a90E64E8dDE60671b6fE8F8DDf18eC9d",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/validator/RoninValidatorSet.sol"
+    },
+    {
+      "label": "SlashIndicatorProxy",
+      "mainnet_address": "0xEBFFF2b32fA0dF9C5C8C5d5AAa7e8b51d5207bA3",
+      "testnet_address": "0xF7837778b6E180Df6696C8Fa986d62f8b6186752",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/slash-indicator/SlashIndicator.sol"
+    },
+    {
+      "label": "StakingProxy",
+      "mainnet_address": "0x545edb750eB8769C868429BE9586F5857A768758",
+      "testnet_address": "0x9C245671791834daf3885533D24dce516B763B28",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/staking/Staking.sol"
+    },
+    {
+      "label": "StakingVestingProxy",
+      "mainnet_address": "0xC768423A2AE2B5024cB58F3d6449A8f5DB6D8816",
+      "testnet_address": "0x023930A8ad88dc5AB3a3b8E8cb849BbD6a5c8441",
+      "network": "Ronin",
+      "source": "https://github.com/ronin-chain/dpos-contract/blob/mainnet/contracts/ronin/StakingVesting.sol"
+    }
+  ],
+  "categories": [
+    "finance",
+    "protocol"
+  ]
 }
