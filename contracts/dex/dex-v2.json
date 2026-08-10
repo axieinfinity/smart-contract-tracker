@@ -3,14 +3,14 @@
     {
       "name": "KatanaRouter",
       "mainnet_address": "0x7d0556d55ca1a92708681e2e231733ebd922597d",
-      "testnet_address": "",
+      "testnet_address": "0xDa44546C0715ae78D454fE8B84f0235081584Fe0",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/mocks/dex/KatanaRouter.sol"
     },
     {
       "name": "KatanaFactory",
       "mainnet_address": "0xb255d6a720bb7c39fee173ce22113397119cb930",
-      "testnet_address": "",
+      "testnet_address": "0x86587380C4c815Ba0066c90aDB2B45CC9C15E72c",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/mocks/dex/KatanaFactory.sol"
     },
