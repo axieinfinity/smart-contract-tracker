@@ -3,14 +3,14 @@
     {
       "name": "Ronin VRF Coordinator",
       "mainnet_address": "0x16a62a921e7fec5bf867ff5c805b662db757b778",
-      "testnet_address": "",
+      "testnet_address": "0x70E99133C3928915d0cE149ef2421cF967eb5777",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/src/coordinators/RoninVRFCoordinator.sol"
     },
     {
       "name": "Ronin VRF Wrapper",
       "mainnet_address": "0x8f3D2DBa3460889b42448bEEefcc3DD6e2215930",
-      "testnet_address": "",
+      "testnet_address": "0x4971b5432AD2c8df4cfDeC23b26501275B487860",
       "description": "A wrapper for VRF that makes failed requests retriable",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/src/wrappers/RoninVRFWrapper.sol"
@@ -18,7 +18,7 @@
     {
       "name": "Ronin VRF Fee Sponsoring",
       "mainnet_address": "0x3894dc7815f6fc259cbfb929bfa0e91da1e20562",
-      "testnet_address": "",
+      "testnet_address": "0x0250173C50a2cF995528Cc9585138164CD463B46",
       "description": "Sponsoring the VRF fee for consumer contracts",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/ronin-vrf/blob/mainnet/contracts/src/wrappers/RoninVRFFeeSponsoring.sol"
@@ -26,7 +26,7 @@
     {
       "label": "PriceFeedRegistry",
       "mainnet_address": "0x7D21f62Da4ab252159bD865F3E3144B1D94E544D",
-      "testnet_address": "",
+      "testnet_address": "0xd3aa8f60553ce9cb9fde7ddc3f796d15dc8b87b3",
       "description": "Fetch the prices from Chainlink DON and push to onchain prediocally",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/chainlink-data-stream-relayer/blob/main/contracts/src/PriceFeedRegistry.sol"
