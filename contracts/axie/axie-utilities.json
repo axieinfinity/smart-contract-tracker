@@ -80,7 +80,7 @@
     {
       "name": "AtiaShrine",
       "mainnet_address": "0x9d3936dbd9a794ee31ef9f13814233d435bd806c",
-      "testnet_address": "",
+      "testnet_address": "0xD5C5aFEfaD9ea288AcBaaeBEACEc5225dd3d6d2B",
       "network": "Ronin",
       "source": "https://github.com/axieinfinity/contract-infinity/blob/main/contracts/atia-shrine/AtiaShrine.sol"
     },
